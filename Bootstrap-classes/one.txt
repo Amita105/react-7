@@ -1,0 +1,70 @@
+The .container class provides a responsive fixed width container
+The .container-fluid class provides a full width container, spanning the entire width of the viewport
+
+
+Bootstrap Grid System
+Bootstrap's grid system allows up to 12 columns across the page.
+
+If you do not want to use all 12 columns individually, you can group the columns together to create wider columns:
+-----------------------------
+Grid Classes
+The Bootstrap grid system has four classes:
+
+xs (for phones - screens less than 768px wide)
+sm (for tablets - screens equal to or greater than 768px wide)
+md (for small laptops - screens equal to or greater than 992px wide)
+lg (for laptops and desktops - screens equal to or greater than 1200px wide)
+
+--------------------------------
+
+we can use abbr and mark elements same like in html in boot
+------------------------------
+Bootstrap Image Shapes
+Rounded Corners:
+
+Cinque Terre
+Circle:
+
+Cinque Terre
+Thumbnail:
+
+Rounded Corners
+The .img-rounded class adds rounded corners to an image (IE8 does not support rounded corners):
+
+Circle
+The .img-circle class shapes the image to a circle (IE8 does not support rounded corners):
+
+Thumbnail
+The .img-thumbnail class shapes the image to a thumbnail:
+
+
+alerts with alert class
+
+To achieve the button styles above, Bootstrap has the following classes:
+
+.btn
+.btn-default
+.btn-primary
+.btn-success
+.btn-info
+.btn-warning
+.btn-danger
+.btn-link
+
+------------------------------
+
+Vertical Button Groups
+Bootstrap also supports vertical button groups:
+
+Use the class .btn-group-vertical to create a vertical button group:
+
+-----------------------
+
+ .pagination .active
+ Pagination Sizing
+Pagination blocks can also be sized to a larger size or a smaller size:
+
+
+Add class .pagination-lg for larger blocks or .pagination-sm for smaller blocks:
+
+

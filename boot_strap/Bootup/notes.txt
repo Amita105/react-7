@@ -1,0 +1,3 @@
+to place the accordian open always we need to removw the property
+
+data-bs-parent="#accordionExample" from accordion component

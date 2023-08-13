@@ -1,0 +1,21 @@
+Glyphicons
+Bootstrap provides 260 glyphicons from the Glyphicons Halflings set.
+
+Glyphicons can be used in text, buttons, toolbars, navigation, forms, etc.
+
+Here are some examples of glyphicons:
+
+Envelope glyphicon: 
+
+Print glyphicon: 
+
+Search glyphicon: 
+
+Download glyphicon: 
+
+Glyphicon Syntax
+A glyphicon is inserted with the following syntax:
+
+<span class="glyphicon glyphicon-name"></span>
+The name part in the syntax above must be replaced with the proper name of the glyphicon.
+
